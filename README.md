@@ -1,4 +1,5 @@
-shapeless
+Shapeless
 =========
 
-Frontend workflow
+! Working copy
+! Work in progress
