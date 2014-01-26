@@ -1,5 +1,5 @@
 Shapeless
 =========
 
-! Working copy
-! Work in progress
+- ! Working copy
+- ! Work in progress
